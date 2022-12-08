@@ -1,4 +1,4 @@
-![](./resources/jara-logo-white.png)
+![ <h1> JARA Match </h1> ](./resources/jara-logo-white.png)
 
 #### Find Your Best Job Matches Faster
 
