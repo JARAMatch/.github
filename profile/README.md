@@ -1,12 +1,7 @@
+![](./resources/jara-logo-white.png)
+
+#### Find Your Best Job Matches Faster
+
 We use a natural language processing algorithm to match students with jobs, so they can apply smarter and with a stronger and targeted application.
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Winner of the [2022 UC Merced Blackstone LaunchPad Ideas Competition](https://competitions.startuptree.co/event/s/WuP5qqv8iHMRcNJ4W33Z2n/2022-Blackstone-LaunchPad-by-StartupTree-Ideas-Competition---UC-Merced)
