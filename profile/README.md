@@ -1,4 +1,4 @@
-## Hi there 👋
+We use a natural language processing algorithm to match students with jobs, so they can apply smarter and with a stronger and targeted application.
 
 <!--
 
