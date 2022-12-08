@@ -1,6 +1,6 @@
 <h1>
   
-![ JARA Match ](./resources/jara-logo-white.png)
+![](https://github.com/JARAMatch/.github/blob/main/profile/resources/jara-logo-white.png)
 </h1>
 
 #### Find Your Best Job Matches Faster
