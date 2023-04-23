@@ -1,3 +1,6 @@
+[![Deploy to Amazon ECR](https://github.com/JARAMatch/JARA-Main/actions/workflows/aws.yml/badge.svg)](https://github.com/JARAMatch/JARA-Main/actions/workflows/aws.yml)
+[![Rust Continuous Integration](https://github.com/JARAMatch/JARA-Main/actions/workflows/Rust_CI.yml/badge.svg)](https://github.com/JARAMatch/JARA-Main/actions/workflows/Rust_CI.yml)
+
 <h1>
   
 ![](https://github.com/JARAMatch/.github/blob/main/profile/resources/jara-logo-white.png)
