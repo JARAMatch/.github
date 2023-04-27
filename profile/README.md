@@ -3,7 +3,9 @@
 
 ![JARA Logo Light](https://raw.githubusercontent.com/JARAMatch/.github/main/profile/resources/jara-logo.png#gh-light-mode-only)
 
-https://beta.jaramatch.com
+✨ Our Beta is Live: https://beta.jaramatch.com
+
+#### JARA stands for Job And Resume Anazlyer
 
 ## Elevate Your Job Search with AI-Powered Personalized Resumes 🎯
 
